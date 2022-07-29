@@ -1,0 +1,32 @@
+
+EXAMPLE
+
+queen 1 di lokasi (1,0) 
+	saling hajar
+		
+	queen 2 dengan 3
+	queen 2 dengan 4
+	queen 2 dengan 6
+	queen 2 dengan 8
+
+	queen 3 dengan 7
+	#queen 3 dengan 2
+	queen 3 dengan 5 
+
+	queen 4 dengan 5
+	#queen 4 dengan 2
+	queen 4 dengan 6
+	queen 4 dengan 7
+
+	queen 5 dengan 6
+	queen 5 dengan 7
+	
+	queen 6 dengan 7
+	queen 6 dengan 8
+		
+	queen 7 dengan 8
+	
+CONCLUSION : Jika Queen 1 di letakkan di lokasi (1, 0 ) maka heuristic lokasi tersebut adalah 14
+14 adalah total pair queen yang menyerang langsung atau tidak
+			
+	
